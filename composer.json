@@ -15,7 +15,7 @@
     },    
     "autoload": {
         "psr-4": {
-            "Ees1124/ThinkKyf": "src/"
+            "think\\kyf\\": "src"
         }
     }
 }
