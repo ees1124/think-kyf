@@ -1,7 +1,8 @@
 {
     "name": "ees1124/think-kyf",
+    "homepage": "https://github.com/ees1124/think-kyf",
     "description": "The ThinkPHP6 kyfcms Package",
-    "license": "Apache-2.0",
+    "license": "MIT",
     "authors": [
         {
             "name": "ees1124",
