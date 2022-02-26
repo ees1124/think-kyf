@@ -2,6 +2,7 @@
     "name": "ees1124/think-kyf",
     "homepage": "https://github.com/ees1124/think-kyf",
     "description": "The ThinkPHP6 kyfcms Package",
+    "version": "1.0.1",
     "license": "MIT",
     "authors": [
         {
@@ -14,7 +15,7 @@
     },    
     "autoload": {
         "psr-4": {
-            "think\\": "src"
+            "Ees1124/ThinkKyf": "src/"
         }
     }
 }
