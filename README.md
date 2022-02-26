@@ -1,3 +1,3 @@
 # think-kyf
 kyfcms核心库
-composer require ees1124/think-kyf
+composer require ees1124/think-kyf dev-main
