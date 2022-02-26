@@ -1,0 +1,19 @@
+{
+    "name": "topthink/think-kyf",
+    "description": "The ThinkPHP6 kyfcms Package",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "ees1124",
+            "email": "81031381@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0"
+    },    
+    "autoload": {
+        "psr-4": {
+            "think\\": "src"
+        }
+    }
+}
