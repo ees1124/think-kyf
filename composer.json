@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": ">=7.1.0",
-        "ees1124/think-kyf":"dev-master"
+        "think-kyf":"dev-master"
     },    
     "autoload": {
         "psr-4": {
