@@ -10,7 +10,7 @@ use think\Container;
 /**
  * 自定义服务基类
  * Class Service
- * @package think\admin
+ * @package think\kyf
  */
 abstract class Service
 {
