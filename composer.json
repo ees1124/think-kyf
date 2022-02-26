@@ -1,5 +1,5 @@
 {
-    "name": "think-kyf",
+    "name": "ees1124/think-kyf",
     "homepage": "https://github.com/ees1124/think-kyf",
     "description": "The ThinkPHP6 kyfcms Package",
     "license": "MIT",
@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": ">=7.1.0",
-        "think-kyf":"dev-master"
+        "ees1124/think-kyf":"dev-master"
     },    
     "autoload": {
         "psr-4": {
